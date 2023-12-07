@@ -1,7 +1,6 @@
 {
   "name": "goit-nodejs-hw-01",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -10,7 +9,12 @@
   },
   "author": "",
   "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
   "dependencies": {
-    "nodemon": "^3.0.2"
+    "commander": "^11.1.0",
+    "nanoid": "^3.3.4"
   }
 }

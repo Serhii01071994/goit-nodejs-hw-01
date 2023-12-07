@@ -1,0 +1,1 @@
+Посилання на скріншоти: 1. "list" - https://monosnap.com/file/nkfObBcpuUUv67l0eanNuuSMeli9kU 2. "add" - https://monosnap.com/file/hne81xuWXxIeUKTD6LyR8d7yeWpLIS 3. "get" - https://monosnap.com/file/Pui6jbvwziMDuMskgofNXnmNY13exT 4. "remove" - https://monosnap.com/file/9frWfhWYEEKNLLHoulZAdSnZSdP8ZR
